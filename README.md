@@ -134,3 +134,4 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+This project is a demonstration of blockchain technology and smart contract integration.
